@@ -1,3 +1,23 @@
-a {
+.target {
 background: gold;
+width: 200px;
+height: 100px;
+overflow: hidden;
+box-shadow: black 10px 10px 10px;
+}
+
+.target {
+background: gold;
+width: 200px;
+height: 100px;
+overflow: hidden;
+box-shadow: black 10px 10px 20px;
+}
+
+.target {
+background: gold;
+width: 200px;
+height: 100px;
+overflow: hidden;
+box-shadow: black 10px 10px 30px;
 }
